@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PROTO_IN_DIR=../proto/src
+PROTO_IN_DIR=./grpc-proto/src
 PROTO_OUT_DIR=./src/proto
 
 mkdir -p ${PROTO_OUT_DIR}

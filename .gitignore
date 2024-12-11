@@ -88,5 +88,4 @@ lerna-debug.log*
 *.env
 
 Generated Proto files
-server/src/proto
-client/src/proto
+src/proto
